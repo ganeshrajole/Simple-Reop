@@ -1,3 +1,1 @@
-public class ABC{
-  
-}
+public class Demo{}
